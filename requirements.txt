@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+yt-dlp
+pytubefix
+aiofiles
+python-dotenv
+pydantic
+pydantic-settings
+requests
+aiohttp
